@@ -1,0 +1,3 @@
+pip install opencv2
+pip install openpyexcel
+pip install pyqt5
